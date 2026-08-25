@@ -45,7 +45,7 @@ I'm passionate about building scalable backend systems using Java and Spring Boo
 
 ---
 
-### [URL Shortener](https://github.com/AbhiSondakar/Url-Shortner)
+### [SwiftRoute](https://github.com/AbhiSondakar/SwiftRoute)
 
 > A Java-based URL shortener that generates short aliases for long URLs so links are easier to share.
 
@@ -59,7 +59,7 @@ I'm passionate about building scalable backend systems using Java and Spring Boo
 
 ---
 
-### [Chat Application](https://github.com/AbhiSondakar/chat-application)
+### [PulseChat](https://github.com/AbhiSondakar/chat-application)
 
 > A chat application with frontend and backend components for real-time messaging.
 

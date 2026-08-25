@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F72D&height=200&text=Abhishek%20Sondakar&fontColor=white&fontSize=50&fontAlignY=38&desc=Java%20%7C%20Spring%20Boot%20%7C%20DSA%20%7C%20Backend%20Development" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F72D&height=200&text=Abhishek%20Sondakar&fontColor=white&fontSize=50&fontAlignY=38" width="100%"/>
 
 ---
 

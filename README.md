@@ -59,7 +59,7 @@ I'm passionate about building scalable backend systems using Java and Spring Boo
 
 ---
 
-### [PulseChat](https://github.com/AbhiSondakar/chat-application)
+### [PulseChat](https://github.com/AbhiSondakar/PulseChat)
 
 > A chat application with frontend and backend components for real-time messaging.
 
